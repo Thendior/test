@@ -6,3 +6,10 @@ Um 09:22
 die wir auf den server spielen wollen
 
 ok?
+
+
+Yes, everything was ok
+Great!
+Now this file gets changed on the server 
+Its 09:27 am
+
