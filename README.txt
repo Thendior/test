@@ -13,3 +13,5 @@ Great!
 Now this file gets changed on the server 
 Its 09:27 am
 
+Perfect now we also change readme.txt on the server
+09:33
