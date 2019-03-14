@@ -24,3 +24,6 @@ Alles wieder oke
 
 Next steps using git 
 10:12
+
+cahmges 
+10:13
