@@ -21,3 +21,6 @@ Perfect now we also change readme.txt on the server
 09:33
 
 Alles wieder oke
+
+Next steps using git 
+10:12
